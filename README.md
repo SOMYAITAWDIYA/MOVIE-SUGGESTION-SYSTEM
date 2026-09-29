@@ -2,7 +2,7 @@
 
 A content-based movie recommendation engine written in pure Python (standard library only). It suggests movies similar to the ones you like using **TF-IDF vectors** and **cosine similarity** over genres, directors, cast and plot descriptions.
 
-> **VITyarthi Project** | Course: `<COURSE NAME & CODE>` | Student: `<YOUR NAME>` | Reg. No: `<YOUR REG NO>`
+> **VITyarthi Project** | Course: `<Problem Solving and Programming & CSE1021>` | Student: `<SOMYA ITAWDIYA>` | Reg. No: `<26BAI10424>`
 
 ---
 
